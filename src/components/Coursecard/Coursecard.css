@@ -1,0 +1,10 @@
+.card-Style{
+    margin: 20px 40px;
+    display: inline-block;
+    width: 18rem ;
+    color: black;
+    text-align: left;
+}
+.card:hover{
+    box-shadow: 5px 5px 20px gray;
+}

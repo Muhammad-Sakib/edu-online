@@ -1,0 +1,36 @@
+
+.course-list{
+    width: 60%;
+    text-align: left;
+    margin-left: 10%;
+    border-right: 1px solid gray;
+}
+.order-summary{
+    color: white;
+    background-color: slategray;
+    width: 25%;
+    height: 300px;
+    margin: 25px;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid gray;
+}
+.order-summary h2, h3{
+    font-weight: bolder;
+    color: orange;
+}
+.order-summary h5{
+    text-align: left;
+    font-weight: bold;
+}
+.right{
+    font-weight: bold;
+    float: right;
+    margin-right: 30px;
+}
+.btn-warning{
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+

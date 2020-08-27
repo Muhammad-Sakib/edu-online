@@ -1,0 +1,31 @@
+.heading{
+    padding-top: 30px;
+    background-color: #282c34;
+    color: green;
+    font-size: 30px;
+    margin: 0px;
+}
+.heading h1{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.heading h1 span{
+    color: orangered;
+}
+.heading nav{
+    margin-top: 30px;
+    width: 100%;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px 30px 10px 50px;
+}
+.heading nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    
+}
+.heading nav a:hover{
+    font-weight: bold;
+    color: gold;
+}
